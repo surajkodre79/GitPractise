@@ -2,5 +2,6 @@
 2) ---------------------
 3) Multiplication 5 * 5 = 25
 4) Addition 1 + 1 = 2
-5) new line added
-6) see you soon.....
+5) new line removed
+6) You need to learn division. All the best
+7) see you soon.....
