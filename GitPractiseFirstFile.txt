@@ -1,5 +1,5 @@
 1) Welcome to GitPractise
 2) ---------------------
-3)
+3) Updated local repository.
 4) 
 5)
