@@ -1,5 +1,5 @@
 1) Welcome to GitPractise
 2) ---------------------
 3) Updated local repository.
-4) 
+4) last updated date - 30/01/2020
 5)
